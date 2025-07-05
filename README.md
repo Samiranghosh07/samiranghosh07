@@ -15,7 +15,7 @@
 ## 🔗 Connect with Me
 - 📂 **GitHub**: [samiranghosh07](https://github.com/Samiranghosh07)
 - 💼 **LinkedIn**: [Samiran Ghosh](https://www.linkedin.com/in/samiranghosh07)
-- 🌍 **Portfolio**: [www.wix.com](https://sghosh07ms.wixsite.com/portfolio) 
+- 🌍 **Portfolio**: [wix](sghosh07ms.wixsite.com/portfolio) 
 
 ---
 
@@ -38,11 +38,6 @@
 - 📦 Containerized microservices with **Docker** & **Kubernetes**
 - 📊 Built monitoring stacks (Prometheus + Grafana) for production systems
 - 📹 Published tutorials on cloud practices via **[]()**
-
----
-
-## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jaiswaladi246&show_icons=true&theme=dracula)
 
 ---
 
