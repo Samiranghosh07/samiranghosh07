@@ -19,6 +19,54 @@
 
 ---
 
+# 🌐 Cloud & System Administration Certifications
+
+This repository contains an overview and resources related to the cloud computing and system administration certifications I have acquired. These certifications span major cloud providers (AWS & Azure) and operating system administration (Linux & Windows).
+
+---
+
+## 📜 Certifications
+
+### ☁️ AWS (Amazon Web Services)
+
+- **CLF-C02: AWS Certified Cloud Practitioner**
+  - Level: Foundational
+  - Focus: Basic understanding of AWS Cloud, services, pricing, support, and architectural best practices.
+
+- **SAA-C01: AWS Certified Solutions Architect – Associate**
+  - Level: Associate
+  - Focus: Designing distributed applications, selecting appropriate AWS services, and implementing cost-control strategies.
+
+- **SAP-C02: AWS Certified Solutions Architect – Professional**
+  - Level: Professional
+  - Focus: Advanced technical skills and experience in designing distributed systems and applications on the AWS platform.
+
+---
+
+### ☁️ Azure
+
+- **AZ-900: Microsoft Certified Azure Fundamentals**
+  - Level: Foundational
+  - Focus: Core cloud concepts, Azure services, security, governance, and pricing models.
+
+---
+
+### 🐧 Linux (Red Hat)
+
+- **RHCSA-7: Red Hat Certified System Administrator (RHEL 7)**
+  - Level: Associate
+  - Focus: Core system administration tasks required in Red Hat Enterprise Linux environments.
+
+---
+
+### 🖥️ Windows Server
+
+- **70-410: Installing and Configuring Windows Server 2012**
+  - Level: Associate
+  - Focus: Installation, configuration, and core networking services in Windows Server 2012.
+
+---
+
 ## 🛠 Skills & Tools
 | DevOps & Cloud | CI/CD & Infra as Code | Linux & Containers | Monitoring & Misc |
 |----------------|------------------------|---------------------|-------------------|
