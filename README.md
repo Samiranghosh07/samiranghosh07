@@ -19,9 +19,17 @@
 
 ---
 
-# 🌐 Cloud & System Administration Certifications
+## 🛠 Skills & Tools
+| DevOps & Cloud | CI/CD & Infra as Code | Linux & Containers | Monitoring & Misc |
+|----------------|------------------------|---------------------|-------------------|
+| ![](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws) | ![](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins) | ![](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux) | ![](https://img.shields.io/badge/Grafana-EA3107?style=flat&logo=grafana) |
+| ![](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker) | ![](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform) | ![](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes) | ![](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus) |
 
-This repository contains an overview and resources related to the cloud computing and system administration certifications I have acquired. These certifications span major cloud providers (AWS & Azure) and operating system administration (Linux & Windows).
+<details>
+  <summary>More Tools & Languages</summary>
+  <br>
+  ![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python) ![](https://img.shields.io/badge/Bash-333333?style=flat&logo=gnu-bash) ![](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible) ![](https://img.shields.io/badge/Git-F05032?style=flat&logo=git) ![](https://img.shields.io/badge/Helm-0F1010?style=flat&logo=helm) ![](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx)
+</details>
 
 ---
 
@@ -64,20 +72,6 @@ This repository contains an overview and resources related to the cloud computin
 - **70-410: Installing and Configuring Windows Server 2012**
   - Level: Associate
   - Focus: Installation, configuration, and core networking services in Windows Server 2012.
-
----
-
-## 🛠 Skills & Tools
-| DevOps & Cloud | CI/CD & Infra as Code | Linux & Containers | Monitoring & Misc |
-|----------------|------------------------|---------------------|-------------------|
-| ![](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws) | ![](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins) | ![](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux) | ![](https://img.shields.io/badge/Grafana-EA3107?style=flat&logo=grafana) |
-| ![](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker) | ![](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform) | ![](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes) | ![](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus) |
-
-<details>
-  <summary>More Tools & Languages</summary>
-  <br>
-  ![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python) ![](https://img.shields.io/badge/Bash-333333?style=flat&logo=gnu-bash) ![](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible) ![](https://img.shields.io/badge/Git-F05032?style=flat&logo=git) ![](https://img.shields.io/badge/Helm-0F1010?style=flat&logo=helm) ![](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx)
-</details>
 
 ---
 
