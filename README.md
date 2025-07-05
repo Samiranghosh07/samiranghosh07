@@ -1,22 +1,21 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=700&lines=Hey%20Everyone!👋;I'm%20Aditya%20Jaiswal;%DevOps%20Engineer%20%7C%20Cloud%20Enthusiast" alt="Typing SVG"/>
+  <img src=""/>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-- 🎯 **DevOps Engineer** based in India, working in corporate IT.
-- 🎥 Passionate about cloud, automation, and building video tutorials on YouTube.
+- 🎯 **DevOps/ DevSecOps / SRE/ Platform Engineer / AWS Solutions Architect ** based in India, working in corporate IT.
+- 🎥 Passionate about cloud, automation, security, SRE, and python automation.
 - 🌐 Explore my projects, contributions, and code on GitHub.
 
 ---
 
 ## 🔗 Connect with Me
-- 📂 **GitHub**: [jaiswaladi246](https://github.com/jaiswaladi246)
-- 💼 **LinkedIn**: [Aditya Jaiswal](https://www.linkedin.com/in/your-linkedin-url)
-- 🌍 **Portfolio**: [www.adityajaiswal.dev](https://www.adityajaiswal.dev) *(update to your actual link)*
-- 📺 **YouTube**: [DevOpsShack](https://www.youtube.com/@devopsshack)
+- 📂 **GitHub**: [samiranghosh07](https://github.com/Samiranghosh07)
+- 💼 **LinkedIn**: [Samiran Ghosh](https://www.linkedin.com/in/samiranghosh07)
+- 🌍 **Portfolio**: [www.wix.com](https://sghosh07ms.wixsite.com/portfolio) 
 
 ---
 
@@ -38,7 +37,7 @@
 - 🚀 Automated cloud deployments using **Terraform**, **Ansible** & **CI/CD pipelines**
 - 📦 Containerized microservices with **Docker** & **Kubernetes**
 - 📊 Built monitoring stacks (Prometheus + Grafana) for production systems
-- 📹 Published tutorials on cloud practices via **[YouTube – DevOpsShack](https://www.youtube.com/@devopsshack)**
+- 📹 Published tutorials on cloud practices via **[]()**
 
 ---
 
@@ -48,10 +47,8 @@
 ---
 
 ## 📫 Get in Touch
-- 📧 Email: aditya.jaiswal@example.com
-- 📝 Feel free to open an issue or PR, or connect on LinkedIn!
+- 📧 Email: sghosh07ms@gmail.com
+- 📝 Feel free to connect on LinkedIn!
 
 ---
-
-*“Striving to turn ideas into reality with code & collaboration.”*
 
